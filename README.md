@@ -10,10 +10,12 @@ To utilize this webpage, the user would scroll down to the Filter Search Section
 
 
 For example if the user would like to see all UFO sightings from the state of TX.  The user would input tx into the Enter State box.
-Images/UFO_TX.PNG
+![UFO_TX](Images/UFO_TX.PNG)
+
 
 The user can further filter this information by adding addtional criteria in the other filter boxes.  For instance, if the user wanted to see all UFOs spotted in TX on 1/8/2010, they would add 1/8/2010 into the Date filter box.
-Images/UFO_TX_Date.PNG
+![UFO_TX_Date](Images/UFO_TX_Date.PNG)
+
 
 
 ## **UFO Project Summary:** 
