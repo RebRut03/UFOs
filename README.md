@@ -22,6 +22,6 @@
 
 
 ## **UFO Project Summary:** 
-- One drawback of this design, is that the user must type in the criteria.  The user may make a mistake, add a date, city, etc. where there was no sighting, and end up getting no data.  
-- One recommendation would be to have drop down menus/lists to choose your criteria.  
+- One drawback of this design, is that the user must type in the criteria exactly.  The user may make a mistake, add a date, city, etc. where there was no sighting, capitalize a state abbreviation like TX, and end up getting no data.  
+- One recommendation would be to have drop down menus/lists to assist the user when choosing their criteria.  
 - Also, I would recommend adding a button that executes the criteria and clears the criteria.
