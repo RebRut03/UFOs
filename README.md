@@ -5,15 +5,18 @@
 
 ## **UFO Project Results:** 
 
-- To utilize this webpage, the user would scroll down to the "Filter Search" Section and enter whatever filter criteria they so choose.
+- To utilize this webpage, the user would scroll down to the "Filter Search" section and enter whatever filter criteria they so choose.
+
   ![Full_Page_Image](Images/Full_Page_Image.PNG)
 
 
 - For example, if the user would like to see all UFO sightings from the state of TX.  The user would input "tx" into the "Enter State" box.
+  
   ![UFO_TX](Images/UFO_TX.PNG)
 
 
-- The user can further filter this information by adding additional criteria in the other filter boxes.  For instance, if the user wanted to see all UFOs spotted in TX on 1/8/2010, they would add the additional criteria “1/8/2010” into the “Date Filter” box.
+- The user can further filter this information by adding additional criteria in the other filter boxes.  For instance, if the user wanted to see all UFOs spotted in TX on 1/8/2010, they would add the additional criteria “1/8/2010” into the “Enter Date” box.
+  
   ![UFO_TX_Date](Images/UFO_TX_Date.PNG)
 
 
