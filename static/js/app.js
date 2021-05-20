@@ -64,16 +64,7 @@ function updateFilters() {
     let filteredData = tableData;
   
     // 9. Loop through all of the filters and keep any data that
-    // matches the filter values; if use "foreach" works only with arrays
-    // filter on ID for filtertable and if statements
-    // data.forEach((filterTable) => {
-      //let row = tbody.append("tr");
-      //Object.values(filterTable).forEach(([id, value]) => {
-        //let cell = row.append("td");
-        //cell.text(value);
-        //}
-      //);
-    //});
+    
 
     for (const [key, value] of Object.entries(filters)) {
       console.log(key, value);
